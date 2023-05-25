@@ -1,0 +1,1 @@
+# dinamize-api-extraction
